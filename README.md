@@ -3,8 +3,8 @@
 - I'm a random dude that started using Linux and fell into the bottomless rabbit hole of technology
 - I'm mainly insterested in Data Analysis, ML and Automation
 - I use <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian" width="30" height="20"/> Debian btw
-- Currently learning spanish 🇦🇷
-- Maybe one day i'll learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/250px-The_C_Programming_Language_logo.svg.png" alt="C" width="15" height="15"/>
+- Currently learning Spanish 🇦🇷
+- Maybe one day I'll learn <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/250px-The_C_Programming_Language_logo.svg.png" alt="C" width="15" height="15"/>
 
 
 
