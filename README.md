@@ -1,4 +1,4 @@
-<p align="center"> <b>Hello, World! I'm Vini/>
+<p align="center"> <b>Hello, World! I'm Vini
 
 - I'm a random dude that started using Linux and fell into the bottomless rabbit hole of technology
 - I'm mainly insterested in Data Analysis, ML and Automation
