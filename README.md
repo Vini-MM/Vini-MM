@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center"> <b>Hello, World! I'm Vini/>
 
-<!--
-**Vini-MM/Vini-MM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a random dude that started using Linux and fell into the bottomless rabbit hole of technology
+- I'm mainly insterested in Data Analysis, ML and Automation
+- I use <img src="https://www.debian.org/logos/openlogo-nd.svg" alt="Debian" width="30" height="20"/> Debian btw
 
-Here are some ideas to get you started:
+<h3 align= "center" >• Tools •</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/250px-R_logo.svg.png" alt="R" width="50" height="50"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F10%2FPython_logo_icon.png&f=1&nofb=1" alt="Python" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/1920px-Sql_data_base_with_logo.svg.png" alt="SQL"  width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="BASH" width="80" height="80"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffabric8.io%2Fpresentations%2Fdevnation-2014-intro%2Fimages%2Flogo-git.png&f=1&nofb=1" alt="Git" width="40" height="40"/>
+<img src= "https://imagepng.org/pinguim-linux-tux-linux/pinguim-linux-tux/" alt="Linux" width="50" height="50"/> 
